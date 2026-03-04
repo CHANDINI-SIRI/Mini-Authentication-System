@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-21-blue)
+![OOP](https://img.shields.io/badge/Concept-OOP-green)
+![Security](https://img.shields.io/badge/Focus-Authentication-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Mini Authentication System
 
 A secure Java-based desktop authentication system implementing user registration, login validation, password hashing, and OTP generation using core Java concepts.
@@ -109,6 +114,16 @@ Mini-Authentication-System
 - Password strength validation  
 - Encryption-based secure storage  
 - REST API version of authentication system  
+
+---
+
+## Application Preview
+
+![Application Screenshot](screenshot1.png)
+![Application Screenshot](screenshot2.png)
+![Application Screenshot](screenshot3.png)
+![Application Screenshot](screenshot4.png)
+![Application Screenshot](screenshot5.png)
 
 ---
 
