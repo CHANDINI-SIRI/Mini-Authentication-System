@@ -130,7 +130,9 @@ Mini-Authentication-System
 ## Author
 
 **Chandini Siri**  
-Aspiring Software Engineer | Java & DSA Enthusiast  
+Aspiring Software Engineer 
+Passionate about DSA,Java,and System Design
+  🔗 GitHub: https://github.com/CHANDINI-SIRI
 
 ---
 
