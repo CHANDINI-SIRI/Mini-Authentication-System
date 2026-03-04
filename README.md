@@ -27,13 +27,13 @@ This project focuses on:
 
 ## Features
 
-- ✅ User Registration  
-- ✅ Secure Password Hashing  
-- ✅ Login Authentication  
-- ✅ OTP Generation  
-- ✅ File-Based User Storage  
-- ✅ Modular Service-Based Architecture  
-- ✅ GUI using Java Swing  
+-  User Registration  
+-  Secure Password Hashing  
+-  Login Authentication  
+-  OTP Generation  
+-  File-Based User Storage  
+-  Modular Service-Based Architecture  
+-  GUI using Java Swing  
 
 ---
 
@@ -136,6 +136,6 @@ Passionate about DSA,Java,and System Design
 
 ---
 
-## ⭐ Contribution
+## Contribution
 
 This is a learning-focused project. Suggestions and improvements are welcome.
